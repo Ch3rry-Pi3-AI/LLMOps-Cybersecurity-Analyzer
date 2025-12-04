@@ -85,9 +85,17 @@ http://localhost:3000
 
 2. You should see the Cybersecurity Analyzer UI:
 
-3) Click **“Choose File”** and upload the `airline.py` file in the project root
-4) Click **“Analyze Code”**
-5) You should see security vulnerabilities detected:
+<p align="center">
+  <img src="assets/app/app_launch.png" alt="Application" width="100%">
+</p>
+
+3. Click **“Choose File”** and upload the `airline.py` file in the project root
+4. Click **“Analyze Code”**
+5. You should see security vulnerabilities detected:
+
+6. <p align="center">
+  <img src="assets/app/output.png" alt="output" width="100%">
+</p>
 
 ### Stopping Local Servers
 
