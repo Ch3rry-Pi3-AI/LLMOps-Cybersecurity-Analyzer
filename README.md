@@ -15,6 +15,11 @@ Semgrep provides the static code scanning capability used by the analyzer.
 Start by creating your account:
 
 1. Visit **[https://semgrep.dev](https://semgrep.dev)**
+
+<p align="center">
+  <img src="assets/semgrep/landing_page.png" alt="Semgrep landing page" width="100%">
+</p>
+  
 2. Click **“Try Semgrep for free”**
 3. Choose **“Continue with GitHub”**
 4. Authorise Semgrep when prompted
@@ -27,6 +32,10 @@ Once you're logged in, you’ll need to create an API token.
 
 1. Click **Settings** (bottom-left corner of the Semgrep dashboard)
 2. Navigate to **Tokens**
+
+<p align="center">
+  <img src="assets/semgrep/tokens.png" alt="Semgrep landing page" width="100%">
+</p>
 
 3) Click **“Create New Token”**
 4) Configure the token:
